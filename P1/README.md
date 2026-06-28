@@ -26,9 +26,9 @@ Explain the problem, requirement, or opportunity that led to this project.
 ## Hardware / Tools Used
 | No. | Code | Part Number | Description | Qty | UOM | Purpose | Cost | Supplier | Image | Notes |
 |---|---|---|---|---|---|---|---|---|---|---|
-| 1 | asfsadf | sadf | asfdasf | fasdf | AD | Dad | sD | SAD | <img src="images/g1_f794d733.jpg" width="120"> |  |
-| 2 | ad | ASD | das | sad | sd | SAds | sD | Sd | <img src="images/Fly_me_e6492a9a.jpg" width="120"> |  |
-| 3 | asdf | af | faf | asfa | asdf | adsdafasf | SAD | dsD | <img src="images/g1_f794d733.jpg" width="120"> |  |
+| 1 | asfsadf | sadf | asfdasf | fasdf | AD | Dad | sD | SAD |  |  |
+| 2 | ad | ASD | das | sad | sd | SAds | sD | Sd |  |  |
+| 3 | asdf | af | faf | asfa | asdf | adsdafasf | SAD | dsD |  |  |
 
 ## Build Notes
 ## Build Summary
