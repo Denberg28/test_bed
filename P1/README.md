@@ -2,8 +2,9 @@
 
 ## Project Brief
 | Field | Details |
-|---|---|
+|:---|:---|
 | Project Type | UAV Build |
+| Current Revision | No saved revision yet |
 
 ## Overview
 ## Purpose
@@ -11,10 +12,14 @@ State what this project is intended to accomplish.
 
 ## Problem / Need
 sasad
-sad
-sad
+- sad
+- sad
 asd
-asd
+- [ ] asd
+- [ ] sadsad
+```text
+sadsadsads
+```
 
 sdfdsfd
 
