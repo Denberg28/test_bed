@@ -17,6 +17,10 @@ Explain the problem, requirement, or opportunity that led to this project.
 - Included:
 - Not included:
 
+## Objectives
+
+<img src="images/Fly_me_e6492a9a.jpg" width="600" alt="Fly_me_e6492a9a">
+
 ## Hardware / Tools Used
 | No. | Code | Part Number | Description | Qty | UOM | Purpose | Cost | Supplier | Notes |
 |---|---|---|---|---|---|---|---|---|---|
