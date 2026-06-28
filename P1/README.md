@@ -1,10 +1,26 @@
 # P1
 
 ## Objective
-State the main objective of the project.
+Purpose:
+- 
+
+Problem / Need:
+- 
+
+Target Output:
+- 
+
+Success Criteria:
+- 
+
+Scope / Limits:
+- 
+
+Initial Notes:
+-
 
 ## Project Type
-General Project
+UAV Build
 
 ## Overview
 ## Purpose
