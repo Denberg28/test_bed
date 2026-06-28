@@ -7,12 +7,24 @@
 
 ## Overview
 ## Purpose
+State what this project is intended to accomplish.
+
 ## Problem / Need
+- [ ] Explain the problem, requirement, or opportunity that led to this project.
+- asdsa
+- [ ] asdsad
+sdfdsfd
+
 ## Scope
 - Included:
 - Not included:
 - [ ] sadsad
+
 <img src="images/M1_de77ae5b.jpg" width="600" alt="M1_de77ae5b">
+
+## Objectives
+
+<img src="images/Fly_me_e6492a9a.jpg" width="600" alt="Fly_me_e6492a9a">
 
 ## Hardware / Tools Used
 | No. | Code | Part Number | Description | Qty | UOM | Purpose | Cost | Supplier | Image | Notes |
@@ -28,26 +40,49 @@
 - [Results](docs/results.md)
 - [Future Work](docs/future_work.md)
 
-## Build Notes Summary
+## Build Notes
 ## Build Summary
+Briefly describe what was built, assembled, configured, or changed.
+
 ## Implementation Steps
 
-## Testing Summary
+## Design Decisions
+- Decision:
+- Reason:
+
+## Issues and Fixes
+- Issue:
+- Cause:
+- Fix:
+
+## Testing
 ## Test Objective
+State what the test is intended to verify.
+
 ## Test Setup
 - Date:
 - Location:
 - Equipment:
 - Configuration:
 
-## Results Summary
+## Test Procedure
+
+## Test Outcome
+- Pass / Fail:
+- Notes:
+
+## Results
 ## Result Summary
+Briefly state the final or current outcome.
+
 ## Evidence
 - Photos:
 - Logs:
 - Measurements:
 - References:
+
 ## Interpretation
+Explain what the evidence means and why it matters.
 
 ## Project Structure
 ```text
