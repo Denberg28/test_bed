@@ -8,28 +8,19 @@ General Project
 
 ## Overview
 ## Purpose
-State what this project is and what it is intended to accomplish.
+State what this project is intended to accomplish.
 
-## Background
-Explain the problem, need, or opportunity that led to this project.
+## Problem / Need
+Explain the problem, requirement, or opportunity that led to this project.
 
 ## Scope
 - Included:
 - Not included:
 
-## Objectives
-- Primary objective:
-- Secondary objective:
-
-## Success Criteria
-- The project is considered successful when:
-
 ## Hardware / Tools Used
 | No. | Code | Part Number | Description | Qty | UOM | Purpose | Cost | Supplier | Notes |
 |---|---|---|---|---|---|---|---|---|---|
-| 1 | qweqwe | qweq | eqwe | wqeqw | eqwe | qwe | qwewqe |  |  |
-| 2 | qweqw | eqwe | qwe | weqwe |  |  |  |  |  |
-| 3 |  |  |  | qweqwe |  |  |  |  |  |
+| 1 |  |  |  |  |  |  |  |  |  |
 
 ## Build Notes
 ## Build Saummary
@@ -71,14 +62,17 @@ State what this test is trying to verify.
 - Measurement / Evidence:
 
 ## Results
-## Summary of Results
-Briefly summarize the current outcome.
+## Result Summary
+Briefly state the final or current outcome.
 
 ## Evidence
 - Photos:
 - Logs:
 - Measurements:
-- GitHub commits:
+- References:
+
+## Interpretation
+Explain what the evidence means and why it matters.
 
 ## Future Work
 List improvements, next steps, and research continuation.
